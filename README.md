@@ -15,7 +15,15 @@ I specialise in creating user-friendly Dashboards, data visualisations and autom
 - Curiosity & proactivity to continuously learn and improve
 - Clear communication to make data understandable and impactful
 
-☎️ Always open to connecting and collaborating
+☎ Always open to connecting and collaborating
+
+#### Socials
+<div id="badges">
+  <a href="https://www.linkedin.com/in/clementvillalard/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 **clemviz/clemviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
