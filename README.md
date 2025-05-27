@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Clément
 
 I'm a Data Analyst and BI Developer passionate about turning complex data into clear, actionable insights.
-I specialise in creating user-friendly Dashboards, ata visualisations and automating workflows that save time.
+I specialise in creating user-friendly Dashboards, data visualisations and automating workflows that save time.
 
 ### 🛠️ Toolbox
 - Power BI
